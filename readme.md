@@ -1,8 +1,6 @@
 ## LearnEd (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
-![](pcView.png)
-
 Try this out::  
 https://snehajyothielearningportal.netlify.app/
 
