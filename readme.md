@@ -4,7 +4,7 @@ An educational website for students and programmers 😊😊😊
 ![](pcView.png)
 
 Try this out::  
-https://roshan9419.github.io/LearnEd_E-learning_Website/
+https://snehajyothielearningportal.netlify.app/
 
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
